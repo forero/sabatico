@@ -1,10 +1,10 @@
 # Durham
 
 ## DESI
-
-* Update on desitarget.mocks to handle catalog only inputs. 
-* Update on quicksurvey to handle new file formats from surveysim+desisurvey. 
-* Work with BGS to test and implement observation strategies in simulations. 
+* Update in `quicksurvey_example` to document how end-to-end simulations can be run.
+* Update on `desitarget.mocks` to handle catalog only inputs. 
+* Update on `quicksurvey` to handle new file formats from surveysim+desisurvey. 
+* Work with BGS to test and implement observation strategies in simulations (lead J. He). 
 * Work with BGS to develop QA routines on simulation outputs (lead J. He). 
 * Work with MWS to develop QA routines on simulation outputs (lead A. Cooper). 
 
