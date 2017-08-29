@@ -17,7 +17,7 @@
 * Cosmic Web paper accepted for publication (MNRAS). 
 * Submitted 1st referee reply for Tololo paper (MNRAS).    
 * Prepared updated mock from Illustris for Brent+Ehsan. 
-* Confirmed that Illustris would not work for LG satellite work.  
+* Confirmed that bright satellites from Illustris cannot work for LG satellite work.  
 
 # HITS
 
