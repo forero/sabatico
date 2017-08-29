@@ -22,6 +22,6 @@
 # HITS
 
 ## DESI
-* Testing scaling for full sky mock generation with the latest `mpi_select_mock_targets`.  
+* Test scaling for full sky mock generation with the latest `mpi_select_mock_targets`.  
 
 
